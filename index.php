@@ -1,8 +1,4 @@
 
-<?php 
-    $email = $_GET['email'];
-?>
-
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <!-- Copyright (c) 2011 Microsoft Corporation.  All rights reserved. -->
